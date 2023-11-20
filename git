@@ -1,3 +1,7 @@
 hello welcome to git
+<<<<<<< HEAD
 github is service git is version control
+=======
+git is version controller 
+>>>>>>> 9dc6a45dc28e25e9387f1fa0940729b664e300cf
 
